@@ -79,6 +79,12 @@ https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
 <hr>
 
+## Sample Template for User Stories:
+
+![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+
+<hr>
+
 **Selenium Sample Classwork Project:**<br> 
 https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
 
